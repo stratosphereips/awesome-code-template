@@ -11,7 +11,7 @@ All contributions are welcomed, thank you for taking the time to contribute to t
 
 ## Persistent Git Branches
 
-The following git branches permanent in the Slips repository:
+The following git branches permanent in the repository:
 
 - `main`: contains the stable version of the repository. All new features should be based on this branch.
    
