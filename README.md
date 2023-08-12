@@ -1,4 +1,4 @@
-# repository-template
+# Awesome Code Template
 
 This repository is a template with basic elements that every repository at Stratosphere should follow.
 
@@ -8,7 +8,7 @@ Write about what makes your [tool|code|data|repo] special.
 
 ## Usage
 
-Write about how other people can use your [tool|code|data|repo].
+Write about how others can use your [tool|code|data|repo].
 
 # About
 
